@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\First Proyect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF4021-713A-4F8D-A1BB-D2CD794D6258}|First Proyect\\First Proyect.csproj|c:\\users\\asus\\source\\repos\\first proyect\\first proyect\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FF4021-713A-4F8D-A1BB-D2CD794D6258}|First Proyect\\First Proyect.csproj|solutionrelative:first proyect\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF4021-713A-4F8D-A1BB-D2CD794D6258}|First Proyect\\First Proyect.csproj|c:\\users\\asus\\source\\repos\\first proyect\\first proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FF4021-713A-4F8D-A1BB-D2CD794D6258}|First Proyect\\First Proyect.csproj|solutionrelative:first proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\First Proyect\\First Proyect\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "First Proyect\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\First Proyect\\First Proyect\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "First Proyect\\Controllers\\PortfolioController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:29:34.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\First Proyect\\First Proyect\\Program.cs",
+              "RelativeDocumentMoniker": "First Proyect\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\First Proyect\\First Proyect\\Program.cs",
+              "RelativeToolTip": "First Proyect\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:29:18.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
